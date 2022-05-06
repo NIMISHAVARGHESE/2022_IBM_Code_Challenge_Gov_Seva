@@ -5,9 +5,9 @@ README.md : File containing information about your project.
 
 List of contributors An alphabetical listing of contributors name, college name,
 
-# Josmi K Jose, Saintgits College of Engineering, Pathamuttom, Kottayam
-# Nimisha Varghese, Saintgits College of Engineering, Pathamuttom, Kottayam
-# Pranav Unni, Saintgits College of Engineering, Pathamuttom, Kottayam
+! Josmi K Jose, Saintgits College of Engineering, Pathamuttom, Kottayam
+! Nimisha Varghese, Saintgits College of Engineering, Pathamuttom, Kottayam
+! Pranav Unni, Saintgits College of Engineering, Pathamuttom, Kottayam
 
 
 Problem statement Identify the theme and define a concrete problem statement
