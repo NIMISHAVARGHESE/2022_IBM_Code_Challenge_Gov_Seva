@@ -12,7 +12,8 @@ List of contributors An alphabetical listing of contributors name, college name,
 
 Problem statement Identify the theme and define a concrete problem statement
 
-Personas of the system Define different users of the system and their usecase
+* Today, you are able to pay bills and buy groceries sitting at the comfort of your home. Shouldn’t one be able to do even work involving government departments the same way?
+* Theme 1 : Digitisation to ease access to social services
 
 src/ : Folder containing all your working source code. Create/modify further sub-folders to suite your needs
 
